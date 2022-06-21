@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Richa!
 
-**I am a second year undergratuate in Civil department. I love exploring new things and is always eager to teach others what I know and to receive new knowledge. **
+**I am a second year undergratuate in Civil department. I love exploring new things and is always eager to teach others what I know and to receive new knowledge.**
 
 <!--
 **richa1711/richa1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
