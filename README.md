@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Richa!
 
-**I am a second year undergratuate in Civil department. I always love exploring new things.**
+**I am a second year undergratuate in Civil department. I love exploring new things and is always eager to teach others what I know and to receive new knowledge. **
 
 <!--
 **richa1711/richa1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently interested learning about Machine Learning and its applications in real world.
 - ⚡ Fun fact: I love watching sci-fi movies, reading books and cooking.
+- 🛡️ My next goal will be to explore about web 3.0 called as future of the Internet.
